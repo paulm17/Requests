@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/onrik/logrus/filename"
-	"github.com/paulm/Requests/datastructure"
+	"github.com/paulm17/Requests/datastructure"
 	log "github.com/sirupsen/logrus"
 )
 

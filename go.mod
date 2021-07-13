@@ -1,4 +1,4 @@
-module github.com/paulm/Requests
+module github.com/paulm17/Requests
 
 go 1.16
 
